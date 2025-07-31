@@ -15,6 +15,8 @@ float negative_funcion(float x){
 }
 
 int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     int t;
     float x;
     cin >> t;
