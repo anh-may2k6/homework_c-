@@ -13,6 +13,8 @@ float find_x(float a, float b,float c,float d ,float e, float f){
 }
 
 int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     int t;
     float a,b,c,d,e,f;
     cin >> t;
